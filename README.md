@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my third year of btech(C.S.E.).<br>I'm currently learning spring boot.
+I'm currently in my final year of btech in Computer Science And Engineering.<br>I'm full stack Java Developer.
 
 
 ## 🌐 Socials:
